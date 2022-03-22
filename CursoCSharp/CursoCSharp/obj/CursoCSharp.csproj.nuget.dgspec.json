@@ -1,36 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel Garcia\\Documents\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {}
+    "C:\\Users\\gokug\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel Garcia\\Documents\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {
+    "C:\\Users\\gokug\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel Garcia\\Documents\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\gokug\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
         "projectName": "CursoCSharp",
-        "projectPath": "C:\\Users\\Gabriel Garcia\\Documents\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
-        "packagesPath": "C:\\Users\\Gabriel Garcia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel Garcia\\Documents\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp\\obj\\",
+        "projectPath": "C:\\Users\\gokug\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+        "packagesPath": "C:\\Users\\gokug\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gokug\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\CursoCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gabriel Garcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gokug\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

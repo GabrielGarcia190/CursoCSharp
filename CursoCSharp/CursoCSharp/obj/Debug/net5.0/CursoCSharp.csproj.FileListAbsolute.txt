@@ -1,0 +1,16 @@
+C:\Users\gokug\Documents\GitHub\CursoCSharp\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.exe
+C:\Users\gokug\Documents\GitHub\CursoCSharp\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.deps.json
+C:\Users\gokug\Documents\GitHub\CursoCSharp\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.json
+C:\Users\gokug\Documents\GitHub\CursoCSharp\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.dev.json
+C:\Users\gokug\Documents\GitHub\CursoCSharp\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.dll
+C:\Users\gokug\Documents\GitHub\CursoCSharp\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.pdb
+C:\Users\gokug\Documents\GitHub\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\gokug\Documents\GitHub\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokug\Documents\GitHub\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\gokug\Documents\GitHub\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\gokug\Documents\GitHub\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\gokug\Documents\GitHub\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.dll
+C:\Users\gokug\Documents\GitHub\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net5.0\refint\CursoCSharp.dll
+C:\Users\gokug\Documents\GitHub\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.pdb
+C:\Users\gokug\Documents\GitHub\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.genruntimeconfig.cache
+C:\Users\gokug\Documents\GitHub\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net5.0\ref\CursoCSharp.dll

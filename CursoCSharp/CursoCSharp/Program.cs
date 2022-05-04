@@ -11,10 +11,12 @@ namespace CursoCSharp {
                 {"Comentarios  - Fundamentos", Comentarios.Executar},
                 {"Variaveis e Constantes - Fundamentos", VariaveisEConstantes.Executar},
                 {"Inferência - Fundamentos", Inferencia.Executar},
-                {"Interpolação - Fundamento", Interpolacao.Executar},
-                {"Notação Ponto - Fundamento", NotacaoPonto.Executar},
-                {"Lendo Dados - Fundamento", LendoDados.Executar},
-                {"Formatando Números - Fundamento", FormantandoNumeros.Executar},
+                {"Interpolação - Fundamentos", Interpolacao.Executar},
+                {"Notação Ponto - Fundamentos", NotacaoPonto.Executar},
+                {"Lendo Dados - Fundamentos", LendoDados.Executar},
+                {"Formatando Números - Fundamentos", FormantandoNumeros.Executar},
+                {"Convertendo Números - Fundamentos", Conversoes.Executar},
+                {"Operadores Aritméticos - Fundamentos", OperadoresAritimeticos.Executar},
 
         });
 

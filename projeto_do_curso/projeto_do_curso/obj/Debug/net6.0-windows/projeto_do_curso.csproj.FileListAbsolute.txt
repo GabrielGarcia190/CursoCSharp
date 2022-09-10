@@ -1,0 +1,17 @@
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_do_curso\bin\Debug\net6.0-windows\projeto_do_curso.exe
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_do_curso\bin\Debug\net6.0-windows\projeto_do_curso.deps.json
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_do_curso\bin\Debug\net6.0-windows\projeto_do_curso.runtimeconfig.json
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_do_curso\bin\Debug\net6.0-windows\projeto_do_curso.dll
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_do_curso\bin\Debug\net6.0-windows\projeto_do_curso.pdb
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_do_curso\obj\Debug\net6.0-windows\projeto_do_curso.csproj.AssemblyReference.cache
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_do_curso\obj\Debug\net6.0-windows\projeto_do_curso.Form1.resources
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_do_curso\obj\Debug\net6.0-windows\projeto_do_curso.csproj.GenerateResource.cache
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_do_curso\obj\Debug\net6.0-windows\projeto_do_curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_do_curso\obj\Debug\net6.0-windows\projeto_do_curso.AssemblyInfoInputs.cache
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_do_curso\obj\Debug\net6.0-windows\projeto_do_curso.AssemblyInfo.cs
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_do_curso\obj\Debug\net6.0-windows\projeto_do_curso.csproj.CoreCompileInputs.cache
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_do_curso\obj\Debug\net6.0-windows\projeto_do_curso.dll
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_do_curso\obj\Debug\net6.0-windows\refint\projeto_do_curso.dll
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_do_curso\obj\Debug\net6.0-windows\projeto_do_curso.pdb
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_do_curso\obj\Debug\net6.0-windows\projeto_do_curso.genruntimeconfig.cache
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_do_curso\obj\Debug\net6.0-windows\ref\projeto_do_curso.dll

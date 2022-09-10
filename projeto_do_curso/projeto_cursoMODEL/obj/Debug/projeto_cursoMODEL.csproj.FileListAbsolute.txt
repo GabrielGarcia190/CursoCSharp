@@ -1,0 +1,6 @@
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_cursoMODEL\bin\Debug\projeto_cursoMODEL.dll
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_cursoMODEL\bin\Debug\projeto_cursoMODEL.pdb
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_cursoMODEL\obj\Debug\projeto_cursoMODEL.csproj.AssemblyReference.cache
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_cursoMODEL\obj\Debug\projeto_cursoMODEL.csproj.CoreCompileInputs.cache
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_cursoMODEL\obj\Debug\projeto_cursoMODEL.dll
+C:\Users\rickp\source\repos\projeto_do_curso\projeto_cursoMODEL\obj\Debug\projeto_cursoMODEL.pdb

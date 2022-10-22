@@ -1,6 +1,0 @@
-C:\Users\rickp\source\repos\projeto_do_curso\projeto_cursoDAO\bin\Debug\projeto_cursoDAO.dll
-C:\Users\rickp\source\repos\projeto_do_curso\projeto_cursoDAO\bin\Debug\projeto_cursoDAO.pdb
-C:\Users\rickp\source\repos\projeto_do_curso\projeto_cursoDAO\obj\Debug\projeto_cursoDAO.csproj.AssemblyReference.cache
-C:\Users\rickp\source\repos\projeto_do_curso\projeto_cursoDAO\obj\Debug\projeto_cursoDAO.csproj.CoreCompileInputs.cache
-C:\Users\rickp\source\repos\projeto_do_curso\projeto_cursoDAO\obj\Debug\projeto_cursoDAO.dll
-C:\Users\rickp\source\repos\projeto_do_curso\projeto_cursoDAO\obj\Debug\projeto_cursoDAO.pdb

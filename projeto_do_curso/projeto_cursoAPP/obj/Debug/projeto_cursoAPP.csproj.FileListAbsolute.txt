@@ -1,6 +1,0 @@
-C:\Users\rickp\source\repos\projeto_do_curso\projeto_cursoAPP\bin\Debug\projeto_cursoAPP.dll
-C:\Users\rickp\source\repos\projeto_do_curso\projeto_cursoAPP\bin\Debug\projeto_cursoAPP.pdb
-C:\Users\rickp\source\repos\projeto_do_curso\projeto_cursoAPP\obj\Debug\projeto_cursoAPP.csproj.AssemblyReference.cache
-C:\Users\rickp\source\repos\projeto_do_curso\projeto_cursoAPP\obj\Debug\projeto_cursoAPP.csproj.CoreCompileInputs.cache
-C:\Users\rickp\source\repos\projeto_do_curso\projeto_cursoAPP\obj\Debug\projeto_cursoAPP.dll
-C:\Users\rickp\source\repos\projeto_do_curso\projeto_cursoAPP\obj\Debug\projeto_cursoAPP.pdb

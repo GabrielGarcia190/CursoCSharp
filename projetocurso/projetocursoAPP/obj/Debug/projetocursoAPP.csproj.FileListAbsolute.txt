@@ -1,0 +1,13 @@
+C:\curso\projetocurso\projetocursoAPP\bin\Debug\projetocursoAPP.dll
+C:\curso\projetocurso\projetocursoAPP\bin\Debug\projetocursoAPP.pdb
+C:\curso\projetocurso\projetocursoAPP\obj\Debug\projetocursoAPP.csproj.AssemblyReference.cache
+C:\curso\projetocurso\projetocursoAPP\obj\Debug\projetocursoAPP.csproj.CoreCompileInputs.cache
+C:\curso\projetocurso\projetocursoAPP\obj\Debug\projetocursoAPP.dll
+C:\curso\projetocurso\projetocursoAPP\obj\Debug\projetocursoAPP.pdb
+C:\curso\projetocurso\projetocursoAPP\bin\Debug\projetocursoDAO.dll
+C:\curso\projetocurso\projetocursoAPP\bin\Debug\projetocursoModel.dll
+C:\curso\projetocurso\projetocursoAPP\bin\Debug\projetocursoDAO.pdb
+C:\curso\projetocurso\projetocursoAPP\bin\Debug\projetocursoModel.pdb
+C:\curso\projetocurso\projetocursoAPP\obj\Debug\projetocursoAPP.csproj.CopyComplete
+C:\curso\projetocurso\projetocursoAPP\bin\Debug\projetocursoAPP.dll.config
+C:\curso\projetocurso\projetocursoAPP\bin\Debug\projetocursoDAO.dll.config

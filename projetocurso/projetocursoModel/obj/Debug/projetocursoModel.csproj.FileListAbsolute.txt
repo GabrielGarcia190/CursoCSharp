@@ -1,6 +1,0 @@
-C:\curso\projetocurso\projetocursoModel\bin\Debug\projetocursoModel.dll
-C:\curso\projetocurso\projetocursoModel\bin\Debug\projetocursoModel.pdb
-C:\curso\projetocurso\projetocursoModel\obj\Debug\projetocursoModel.csproj.AssemblyReference.cache
-C:\curso\projetocurso\projetocursoModel\obj\Debug\projetocursoModel.csproj.CoreCompileInputs.cache
-C:\curso\projetocurso\projetocursoModel\obj\Debug\projetocursoModel.dll
-C:\curso\projetocurso\projetocursoModel\obj\Debug\projetocursoModel.pdb

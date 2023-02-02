@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp", "CursoCSharp\CursoCSharp.csproj", "{520F7B64-6A9F-450A-A62F-884E7E481ABE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp", "CursoCSharp\CursoCSharp.csproj", "{520F7B64-6A9F-450A-A62F-884E7E481ABE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

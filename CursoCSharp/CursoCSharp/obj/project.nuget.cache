@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xoBgaT+P6r8xUuXGqvRQl1WvMmSDX1h6QQmdMzrUUm5ibjrv8/DSpdLuj7siSj9dhn65LxloYJNZ4H2OuDronA==",
+  "dgSpecHash": "Sx/FRvZgUnaZQ1/GZhPj9gS7cvcespJM2VYSv9pSZDfr2raa4K4iZf8ZmHFVzkwTFNofajXCMEqEK+rgrLNXAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gokug\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,15 @@
+C:\dev\CursoCSharp\CSharp_2_Curso\Variaves\bin\Debug\net6.0\Variaves.exe
+C:\dev\CursoCSharp\CSharp_2_Curso\Variaves\bin\Debug\net6.0\Variaves.deps.json
+C:\dev\CursoCSharp\CSharp_2_Curso\Variaves\bin\Debug\net6.0\Variaves.runtimeconfig.json
+C:\dev\CursoCSharp\CSharp_2_Curso\Variaves\bin\Debug\net6.0\Variaves.dll
+C:\dev\CursoCSharp\CSharp_2_Curso\Variaves\bin\Debug\net6.0\Variaves.pdb
+C:\dev\CursoCSharp\CSharp_2_Curso\Variaves\obj\Debug\net6.0\Variaves.csproj.AssemblyReference.cache
+C:\dev\CursoCSharp\CSharp_2_Curso\Variaves\obj\Debug\net6.0\Variaves.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoCSharp\CSharp_2_Curso\Variaves\obj\Debug\net6.0\Variaves.AssemblyInfoInputs.cache
+C:\dev\CursoCSharp\CSharp_2_Curso\Variaves\obj\Debug\net6.0\Variaves.AssemblyInfo.cs
+C:\dev\CursoCSharp\CSharp_2_Curso\Variaves\obj\Debug\net6.0\Variaves.csproj.CoreCompileInputs.cache
+C:\dev\CursoCSharp\CSharp_2_Curso\Variaves\obj\Debug\net6.0\Variaves.dll
+C:\dev\CursoCSharp\CSharp_2_Curso\Variaves\obj\Debug\net6.0\refint\Variaves.dll
+C:\dev\CursoCSharp\CSharp_2_Curso\Variaves\obj\Debug\net6.0\Variaves.pdb
+C:\dev\CursoCSharp\CSharp_2_Curso\Variaves\obj\Debug\net6.0\Variaves.genruntimeconfig.cache
+C:\dev\CursoCSharp\CSharp_2_Curso\Variaves\obj\Debug\net6.0\ref\Variaves.dll

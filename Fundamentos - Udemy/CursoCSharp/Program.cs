@@ -1,9 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-
-using CursoCSharp.Fundamentos;
+﻿using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.EstruturasdeControle;
-
+using CursoCSharp.Fundamentos;
+using System;
+using System.Collections.Generic;
 
 namespace CursoCSharp
 {
@@ -40,6 +39,26 @@ namespace CursoCSharp
                 {"Estrutura ForEach - Estruturas de Controle", EstruturaForEach.Executar },
                 {"Usando Break - Estruturas de Controle", UsandoBrake.Executar },
                 {"Usando Continue - Estruturas de Controle", UsandoContinue.Executar },
+
+
+                //Classes e Metodos
+                {"Membros - Classes e Metodos", Membros.Executar },
+                {"Contrutores - Classes e Metodos", Construtores.Executar },
+                {"Metodos com Retorno - Classes e Metodos", MetodosComRetorno.Executar },
+                {"Metodos Estáticos - Classes e Metodos", MetodosEstaticos.Executar },
+                {"Atributos Estáticos - Classes e Metodos", AtributosEstaticos.Executar },
+                {"Desafio Atributos - Classes e Metodos", DesafioAtributos.Executar },
+                {"Params - Classes e Metodos", Params.Executar },
+                {"Parametros Nomeados - Classes e Metodos", ParametrosNomeados.Executar },
+                {"Get e Set - Classes e Metodos", GetSet.Executar },
+                {"Props - Classes e Metodos", Props.Executar },
+                {"Readonly - Classes e Metodos", Readonly.Executar },
+                {"Enum - Classes e Metodos", ExemploEnum.Executar },
+                {"Struct - Classes e Metodos", ExemploStruct.Executar },
+                {"Struct vs Classe - Classes e Metodos", StructvsClasse.Executar },
+                {"Valor vs Referência - Classes e Metodos", ValorVsReferentecia.Executar },
+                {"Parametro por Referência - Classes e Metodos", ParametrosPorReferencia.Executar },
+                {"Parametro com Valor Padrão - Classes e Metodos", ParametrosPadrao.Executar },
         });
 
             central.SelecionarEExecutar( );

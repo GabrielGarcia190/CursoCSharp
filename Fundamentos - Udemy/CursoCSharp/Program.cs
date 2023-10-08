@@ -1,4 +1,5 @@
 ﻿using CursoCSharp.ClassesEMetodos;
+using CursoCSharp.Colecoes;
 using CursoCSharp.EstruturasdeControle;
 using CursoCSharp.Fundamentos;
 using System;
@@ -59,6 +60,14 @@ namespace CursoCSharp
                 {"Valor vs Referência - Classes e Metodos", ValorVsReferentecia.Executar },
                 {"Parametro por Referência - Classes e Metodos", ParametrosPorReferencia.Executar },
                 {"Parametro com Valor Padrão - Classes e Metodos", ParametrosPadrao.Executar },
+
+                //Coleções
+                {"Arrays - Coleções", Colecoes.Array.Executar},
+                {"List - Coleções", ColecoesList.Executar},
+                {"Array List - Coleções", ColecoesArrayList.Executar},
+                {"HashSet - Coleções", ColecoesSet.Executar},
+                {"Igualdade - Coleções", Igualdade.Executar},
+                {"Stack - Coleções", ColecoesStack.Executar},
         });
 
             central.SelecionarEExecutar( );

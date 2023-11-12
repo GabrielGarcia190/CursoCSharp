@@ -1,0 +1,12 @@
+C:\dev\Fundamentos_Udemy\Fundamentos - Udemy\Encapsulamento\bin\Debug\net6.0\Encapsulamento.deps.json
+C:\dev\Fundamentos_Udemy\Fundamentos - Udemy\Encapsulamento\bin\Debug\net6.0\Encapsulamento.dll
+C:\dev\Fundamentos_Udemy\Fundamentos - Udemy\Encapsulamento\bin\Debug\net6.0\Encapsulamento.pdb
+C:\dev\Fundamentos_Udemy\Fundamentos - Udemy\Encapsulamento\obj\Debug\net6.0\Encapsulamento.csproj.AssemblyReference.cache
+C:\dev\Fundamentos_Udemy\Fundamentos - Udemy\Encapsulamento\obj\Debug\net6.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Fundamentos_Udemy\Fundamentos - Udemy\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\dev\Fundamentos_Udemy\Fundamentos - Udemy\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfo.cs
+C:\dev\Fundamentos_Udemy\Fundamentos - Udemy\Encapsulamento\obj\Debug\net6.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\dev\Fundamentos_Udemy\Fundamentos - Udemy\Encapsulamento\obj\Debug\net6.0\Encapsulamento.dll
+C:\dev\Fundamentos_Udemy\Fundamentos - Udemy\Encapsulamento\obj\Debug\net6.0\refint\Encapsulamento.dll
+C:\dev\Fundamentos_Udemy\Fundamentos - Udemy\Encapsulamento\obj\Debug\net6.0\Encapsulamento.pdb
+C:\dev\Fundamentos_Udemy\Fundamentos - Udemy\Encapsulamento\obj\Debug\net6.0\ref\Encapsulamento.dll

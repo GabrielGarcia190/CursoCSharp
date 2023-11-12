@@ -1,4 +1,5 @@
-﻿using CursoCSharp.ClassesEMetodos;
+﻿using CursoCSharp.API;
+using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
 using CursoCSharp.EstruturasdeControle;
 using CursoCSharp.Excecoes;
@@ -87,8 +88,20 @@ namespace CursoCSharp
                 {"Delegate - Métodos & Funções", UsandoDelegate.Executar},
                 {"Delegate Funções Anônimas - Métodos & Funções", DelegateFunAnonima.Executar},
                 {"Delegates como Paramêtros - Métodos & Funções", DelegatesComoParametros.Executar},
+
+                //Execeções
                 {"Execeções sem tratamento - Métodos & Funções", PrimeiraExececao.Executar},
                 {"Execeções Personalizadas - Métodos & Funções", ExececoesPersonalizadas.Executar},
+
+                //API
+                {"Escrevendo - API", PrimeiroArquivo.Executar},
+                {"Lendo arquivos - API", LendoArquivos.Executar},
+                {"FileInfo - API", ExemploFiloInfo.Executar},
+                {"Diretórios - API", Diretorios.Executar},
+                {"Path - API", ExemploPath.Executar},
+                {"Date Time - API", ExemploDateTime.Executar},
+                {"Time Span - API", ExemploDateTime.Executar},
+
 
 
 

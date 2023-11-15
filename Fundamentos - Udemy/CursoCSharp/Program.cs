@@ -6,8 +6,10 @@ using CursoCSharp.Excecoes;
 using CursoCSharp.Fundamentos;
 using CursoCSharp.MetodosEFuncoes;
 using CursoCSharp.OO;
+using CursoCSharp.TopicosEpeciais;
 using System;
 using System.Collections.Generic;
+using System.Data.SqlTypes;
 
 namespace CursoCSharp
 {
@@ -15,7 +17,7 @@ namespace CursoCSharp
     {
         static void Main(string[] args)
         {
-            var central = new CentralDeExercicios(new Dictionary<string, Action>( ) {
+            var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 // Fundamentos
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
                 {"Comentarios  - Fundamentos", Comentarios.Executar},
@@ -102,12 +104,19 @@ namespace CursoCSharp
                 {"Date Time - API", ExemploDateTime.Executar},
                 {"Time Span - API", ExemploDateTime.Executar},
 
+                //Topicos Especiais
+                {"Linq - Topicos Especiais", LINQ1.Executar},
+                {"Linq 2 - Topicos Especiais", LINQ2.Executar},
+                {"Nullables - Topicos Especiais", Nullables.Executar},
+                {"Dynamics - Topicos Especiais", Dynamics.Executar},
+                {"Genericos - Topicos Especiais", Genericos.Executar},
+
 
 
 
         });
 
-            central.SelecionarEExecutar( );
+            central.SelecionarEExecutar();
         }
     }
 }
